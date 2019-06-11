@@ -1,0 +1,15 @@
+{
+  "main.css": "/kurs/static/css/main.7ce416d0.chunk.css",
+  "main.js": "/kurs/static/js/main.1a2c696b.chunk.js",
+  "main.js.map": "/kurs/static/js/main.1a2c696b.chunk.js.map",
+  "runtime~main.js": "/kurs/static/js/runtime~main.3914b181.js",
+  "runtime~main.js.map": "/kurs/static/js/runtime~main.3914b181.js.map",
+  "static/js/2.8ab05e03.chunk.js": "/kurs/static/js/2.8ab05e03.chunk.js",
+  "static/js/2.8ab05e03.chunk.js.map": "/kurs/static/js/2.8ab05e03.chunk.js.map",
+  "index.html": "/kurs/index.html",
+  "precache-manifest.4701eef04581396bf9f39576f8e3ab28.js": "/kurs/precache-manifest.4701eef04581396bf9f39576f8e3ab28.js",
+  "service-worker.js": "/kurs/service-worker.js",
+  "static/css/main.7ce416d0.chunk.css.map": "/kurs/static/css/main.7ce416d0.chunk.css.map",
+  "static/media/index.css": "/kurs/static/media/subway.eae9650f.jpg",
+  "static/media/logo.svg": "/kurs/static/media/logo.5d5d9eef.svg"
+}
